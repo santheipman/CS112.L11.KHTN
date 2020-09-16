@@ -1,6 +1,8 @@
 # CS112.L11.KHTN
-## ID: N005
-## MEMBER
-### 1. VU QUI SAN (LEADER) - 18520143
-### 2. PHAM MANH TIEN - 18520166
-### 3. NGUYEN VUONG THINH - 18520367
+### **Group: N005**
+
+| Full name      | Student ID |
+| ----------- | ----------- |
+| Vu Qui San (Leader)        | 18520143 |
+| Pham Manh Tien     | 18520166 |
+| Nguyen Vuong Thinh | 18520367 |
