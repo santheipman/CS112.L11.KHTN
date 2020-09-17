@@ -1,6 +1,6 @@
 # CS112.L11.KHTN
 
-Repository gồm bài tập của UIT CS112: Phân tích và thiết kế thuật toán.
+Repository này chứa bài tập từ khóa học UIT CS112: Phân tích và thiết kế thuật toán.
 
 ### **Nhóm N005**
 
