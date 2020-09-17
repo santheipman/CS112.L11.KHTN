@@ -1,5 +1,10 @@
+
+
+<p align="center">
+  <img src="https://portal.uit.edu.vn/Styles/profi/images/logo186x150.png" />
+</p>
+
 # CS112.L11.KHTN
-![logo_uit](https://portal.uit.edu.vn/Styles/profi/images/logo186x150.png)
 
 Repository này chứa bài tập từ khóa học UIT CS112: Phân tích và thiết kế thuật toán.
 
