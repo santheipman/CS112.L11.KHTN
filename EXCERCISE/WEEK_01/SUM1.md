@@ -1,22 +1,24 @@
-# SUMMARY FOR LESSION 1
+# TÓM TẮT BUỔI 1
 
-### **Group: N005**
+### **NHÓM: N005**
 
-| Full name      | Student ID |
+| Họ Tên       | MSSV |
 | ----------- | ----------- |
-| Vu Qui San         | 18520143 |
-| Pham Manh Tien     | 18520166 |
-| Nguyen Vuong Thinh | 18520367 |
+| Vũ Quí San         | 18520143 |
+| Phạm Mạnh Tiến     | 18520166 |
+| Nguyễn Vương Thịnh | 18520367 |
 
-1. **Lesson Content**
-* How to solve a real problem by Computational Thinking method
-* Analyze and model the actual problem into computer problem
-* Evaluate effectiveness of an algorithm by time comlexity, memory usege,...
+1. **Nội dung tiết học**
 
-2. **Disccusion**
-* How to ask the right question
-* Why we need to study CS112 class?
+* Áp dụng phương pháp Computational Thinking để giải quyết vấn đề.
+* Phân tích và mô hình hóa bài toán thực tế thành vấn đề mà máy tính xử lí được.
+* Đánh giá độ hiệu quả của thuật toán bằng: thời gian thực thi, bộ nhớ lưu trữ,...
 
-3. **Homework**
-* Complete exercises in Google classroom and Wecode platform.
-* Pratice questioning skill, solve problem by Computational Thinking method.
+
+2. **Thảo luận**
+* Đặt câu hỏi cho đúng cách?
+* Các câu hỏi liên quan về môn Phân tích và thiết kế thuật toán.
+
+3. **Bài tập**
+* Hoàn thành bài tập trong Google classroom và Wecode.
+* Luyện tập kỹ năng đặt câu hỏi, kỹ năng giải quyết vấn đề bằng phương pháp Computational Thinking.
