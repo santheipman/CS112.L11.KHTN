@@ -1,11 +1,11 @@
 # CS112.L11.KHTN
 
-This repository contains assignments from UIT CS112: Design and Analysis of Algorithms
+Repository gồm bài tập của UIT CS112: Phân tích và thiết kế thuật toán.
 
-### **Group N005**
+### **Nhóm N005**
 
-| Member      | Student ID |
+| Thành viên     | MSSV |
 | ----------- | ----------- |
-| Vu Qui San (Leader)        | 18520143 |
-| Pham Manh Tien     | 18520166 |
-| Nguyen Vuong Thinh | 18520367 |
+| Vũ Qúi San (Nhóm trưởng)        | 18520143 |
+| Phạm Mạnh Tiến     | 18520166 |
+| Nguyễn Vương Thịnh | 18520367 |
