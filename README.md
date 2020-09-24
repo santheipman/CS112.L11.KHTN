@@ -4,7 +4,7 @@
   <h1 align= "center"><strong>     CS112.PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</strong> </h1>
 </p>
 
-# CS112.L11.KHTN
+## CS112.L11.KHTN
 
 Repository này chứa bài tập từ khóa học UIT CS112: Phân tích và thiết kế thuật toán.
 
