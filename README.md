@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.uit.edu.vn/sites/vi/files/banner.png" alt="UIT logo" class="left">
+  <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
   <h1 align= "center"><strong>     CS112.PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</strong> </h1>
 </p>
 
