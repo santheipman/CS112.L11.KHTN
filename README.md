@@ -8,7 +8,6 @@
 
 Repository này chứa bài tập từ khóa học UIT CS112: Phân tích và thiết kế thuật toán.
 
-#**CS112.L11.KHTN**
 ## **NHÓM 5**
 
 |  STT | HỌ TÊN             | MSSV     | VAI TRÒ     | LIÊN HỆ |
