@@ -1,3 +1,0 @@
-YES
-Explain:
-6 elements are: [ 308 3540  360 3888 2051 1206]
