@@ -1,3 +1,0 @@
-YES
-Explain:
-3 elements are: [2295  792  399]

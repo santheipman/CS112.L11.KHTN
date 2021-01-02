@@ -1,3 +1,0 @@
-YES
-Explain:
-7 elements are: [2475  853 2377  466 1555 1847  783]
